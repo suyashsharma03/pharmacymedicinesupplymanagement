@@ -1,0 +1,11 @@
+INFO  05:27:31 Application started. Press Ctrl+C to shut down.
+INFO  05:27:31 Application started. Press Ctrl+C to shut down.
+INFO  05:27:31 Hosting environment: Development
+INFO  05:27:31 Hosting environment: Development
+INFO  05:27:31 Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\AuthorizationAPI
+INFO  05:27:31 Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\AuthorizationAPI
+WARN  05:27:31 Failed to determine the https port for redirect.
+WARN  05:27:31 Failed to determine the https port for redirect.
+INFO  05:32:18 Login initiated!
+INFO  05:32:18 Validating the User!
+INFO  05:32:18 Token Is Generated!

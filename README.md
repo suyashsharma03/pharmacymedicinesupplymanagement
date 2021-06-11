@@ -1,2 +1,2 @@
-# pharmacymedicinesupplymanagement
+# Pharmacy Medicine Supply Management
 MFPE

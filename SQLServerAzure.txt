@@ -1,5 +1,0 @@
-Resource Group - rgsuyashsharma
-Database name - dbPharmacy
-Server - pharmacymanagement
-Admin login username - suyash
-Password - Password@1

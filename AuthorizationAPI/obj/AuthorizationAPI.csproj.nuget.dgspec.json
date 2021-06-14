@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\suyash_docs\\CTS_MCA\\Internship\\MFPE\\AuthorizationAPI\\AuthorizationAPI.csproj": {}
+    "G:\\suyash_docs\\CTS_MCA\\Internship\\MFPE\\Project\\AuthorizationAPI\\AuthorizationAPI.csproj": {}
   },
   "projects": {
-    "G:\\suyash_docs\\CTS_MCA\\Internship\\MFPE\\AuthorizationAPI\\AuthorizationAPI.csproj": {
+    "G:\\suyash_docs\\CTS_MCA\\Internship\\MFPE\\Project\\AuthorizationAPI\\AuthorizationAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\suyash_docs\\CTS_MCA\\Internship\\MFPE\\AuthorizationAPI\\AuthorizationAPI.csproj",
+        "projectUniqueName": "G:\\suyash_docs\\CTS_MCA\\Internship\\MFPE\\Project\\AuthorizationAPI\\AuthorizationAPI.csproj",
         "projectName": "AuthorizationAPI",
-        "projectPath": "G:\\suyash_docs\\CTS_MCA\\Internship\\MFPE\\AuthorizationAPI\\AuthorizationAPI.csproj",
+        "projectPath": "G:\\suyash_docs\\CTS_MCA\\Internship\\MFPE\\Project\\AuthorizationAPI\\AuthorizationAPI.csproj",
         "packagesPath": "C:\\Users\\KAILASH SHARMA\\.nuget\\packages\\",
-        "outputPath": "G:\\suyash_docs\\CTS_MCA\\Internship\\MFPE\\AuthorizationAPI\\obj\\",
+        "outputPath": "G:\\suyash_docs\\CTS_MCA\\Internship\\MFPE\\Project\\AuthorizationAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "G:\\Softwares\\Visual Studio Community 2019\\Shared\\NuGetPackages"

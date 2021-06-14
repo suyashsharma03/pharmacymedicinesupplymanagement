@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c8fK7BDE5LAt0xn7b1luO90IocSCuN2EI/tri9YAESY5Q7e/i13u5cRhHb/XXFH5ykGYnVD7fQjGsOTdUU27IQ==",
+  "dgSpecHash": "LeDm6aC5Ri67trPCzBrwDSEi03zxYnQdmobd5aG4VP6kI0G8adrIDimooLkjJCuvXmnCeObl/lvvKknl0ciXCA==",
   "success": true,
-  "projectFilePath": "G:\\suyash_docs\\CTS_MCA\\Internship\\MFPE\\MedicineStockSupply\\MedicineStockSupply.csproj",
+  "projectFilePath": "G:\\suyash_docs\\CTS_MCA\\Internship\\MFPE\\Project\\MedicineStockSupply\\MedicineStockSupply.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KAILASH SHARMA\\.nuget\\packages\\log4net\\2.0.12\\log4net.2.0.12.nupkg.sha512",
     "C:\\Users\\KAILASH SHARMA\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",

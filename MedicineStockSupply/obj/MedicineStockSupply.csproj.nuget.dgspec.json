@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\suyash_docs\\CTS_MCA\\Internship\\MFPE\\MedicineStockSupply\\MedicineStockSupply.csproj": {}
+    "G:\\suyash_docs\\CTS_MCA\\Internship\\MFPE\\Project\\MedicineStockSupply\\MedicineStockSupply.csproj": {}
   },
   "projects": {
-    "G:\\suyash_docs\\CTS_MCA\\Internship\\MFPE\\MedicineStockSupply\\MedicineStockSupply.csproj": {
+    "G:\\suyash_docs\\CTS_MCA\\Internship\\MFPE\\Project\\MedicineStockSupply\\MedicineStockSupply.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\suyash_docs\\CTS_MCA\\Internship\\MFPE\\MedicineStockSupply\\MedicineStockSupply.csproj",
+        "projectUniqueName": "G:\\suyash_docs\\CTS_MCA\\Internship\\MFPE\\Project\\MedicineStockSupply\\MedicineStockSupply.csproj",
         "projectName": "MedicineStockSupply",
-        "projectPath": "G:\\suyash_docs\\CTS_MCA\\Internship\\MFPE\\MedicineStockSupply\\MedicineStockSupply.csproj",
+        "projectPath": "G:\\suyash_docs\\CTS_MCA\\Internship\\MFPE\\Project\\MedicineStockSupply\\MedicineStockSupply.csproj",
         "packagesPath": "C:\\Users\\KAILASH SHARMA\\.nuget\\packages\\",
-        "outputPath": "G:\\suyash_docs\\CTS_MCA\\Internship\\MFPE\\MedicineStockSupply\\obj\\",
+        "outputPath": "G:\\suyash_docs\\CTS_MCA\\Internship\\MFPE\\Project\\MedicineStockSupply\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "G:\\Softwares\\Visual Studio Community 2019\\Shared\\NuGetPackages"

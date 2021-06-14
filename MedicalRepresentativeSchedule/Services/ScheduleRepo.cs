@@ -26,7 +26,7 @@ namespace MedicalRepresentativeSchedule.Services
                     while ((line = sr.ReadLine()) != null)
                     {
                         string[] values = line.Split(',');
-                        scheduleDetails.Add(new RepSchedule() { Name = values[0], DoctorName = values[1], MeetingSlot = values[5], DateOfMeeting = Convert.ToDateTime(values[6]), DoctorContactNumber = Convert.ToInt64(values[7]) });
+                        scheduleDetails.Add(new RepSchedule() { Name = values[0], DoctorName = values[1], TreatingAilment = values[2], Medicine = (values[3] +','+ values[4]), MeetingSlot = values[5], DateOfMeeting = Convert.ToDateTime(values[6]), DoctorContactNumber = Convert.ToInt64(values[7]) });
                     }
 
                 }

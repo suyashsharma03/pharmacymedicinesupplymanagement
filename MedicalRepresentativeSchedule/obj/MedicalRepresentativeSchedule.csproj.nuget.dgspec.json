@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\suyash_docs\\CTS_MCA\\Internship\\MFPE\\MedicalRepresentativeSchedule\\MedicalRepresentativeSchedule.csproj": {}
+    "G:\\suyash_docs\\CTS_MCA\\Internship\\MFPE\\Project\\MedicalRepresentativeSchedule\\MedicalRepresentativeSchedule.csproj": {}
   },
   "projects": {
-    "G:\\suyash_docs\\CTS_MCA\\Internship\\MFPE\\MedicalRepresentativeSchedule\\MedicalRepresentativeSchedule.csproj": {
+    "G:\\suyash_docs\\CTS_MCA\\Internship\\MFPE\\Project\\MedicalRepresentativeSchedule\\MedicalRepresentativeSchedule.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\suyash_docs\\CTS_MCA\\Internship\\MFPE\\MedicalRepresentativeSchedule\\MedicalRepresentativeSchedule.csproj",
+        "projectUniqueName": "G:\\suyash_docs\\CTS_MCA\\Internship\\MFPE\\Project\\MedicalRepresentativeSchedule\\MedicalRepresentativeSchedule.csproj",
         "projectName": "MedicalRepresentativeSchedule",
-        "projectPath": "G:\\suyash_docs\\CTS_MCA\\Internship\\MFPE\\MedicalRepresentativeSchedule\\MedicalRepresentativeSchedule.csproj",
+        "projectPath": "G:\\suyash_docs\\CTS_MCA\\Internship\\MFPE\\Project\\MedicalRepresentativeSchedule\\MedicalRepresentativeSchedule.csproj",
         "packagesPath": "C:\\Users\\KAILASH SHARMA\\.nuget\\packages\\",
-        "outputPath": "G:\\suyash_docs\\CTS_MCA\\Internship\\MFPE\\MedicalRepresentativeSchedule\\obj\\",
+        "outputPath": "G:\\suyash_docs\\CTS_MCA\\Internship\\MFPE\\Project\\MedicalRepresentativeSchedule\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "G:\\Softwares\\Visual Studio Community 2019\\Shared\\NuGetPackages"

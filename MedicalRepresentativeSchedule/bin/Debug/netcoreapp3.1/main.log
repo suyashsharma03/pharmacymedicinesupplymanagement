@@ -57,3 +57,127 @@
 2021-06-10 10:57:53,841 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\MedicalRepresentativeSchedule
 2021-06-10 10:57:54,526 [5] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
 2021-06-10 10:57:54,531 [5] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-13 00:55:06,172 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-13 00:55:06,212 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-13 00:55:06,228 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\MedicalRepresentativeSchedule
+2021-06-13 01:06:49,892 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-13 01:06:50,164 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-13 01:06:50,221 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\MedicalRepresentativeSchedule
+2021-06-13 01:08:58,172 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-13 01:08:58,523 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-13 01:08:58,543 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\MedicalRepresentativeSchedule
+2021-06-13 16:12:39,874 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-13 16:12:39,988 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-13 16:12:39,994 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\MedicalRepresentativeSchedule
+2021-06-13 16:21:18,723 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-13 16:21:18,787 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-13 16:21:18,805 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\MedicalRepresentativeSchedule
+2021-06-13 16:32:53,405 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-13 16:32:53,445 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-13 16:32:53,450 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\MedicalRepresentativeSchedule
+2021-06-13 16:53:48,072 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-13 16:53:48,112 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-13 16:53:48,115 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\MedicalRepresentativeSchedule
+2021-06-13 16:55:47,720 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-13 16:55:47,763 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-13 16:55:47,767 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\MedicalRepresentativeSchedule
+2021-06-13 16:56:37,107 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-13 16:56:37,140 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-13 16:56:37,152 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\MedicalRepresentativeSchedule
+2021-06-13 17:41:17,565 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-13 17:41:17,619 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-13 17:41:17,691 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\MedicalRepresentativeSchedule
+2021-06-13 17:44:20,947 [5] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-13 17:44:20,952 [5] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-13 17:54:43,559 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-13 17:54:43,704 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-13 17:54:43,948 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\MedicalRepresentativeSchedule
+2021-06-13 17:58:53,899 [12] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-13 17:58:53,903 [12] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-13 18:28:27,695 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-13 18:28:27,748 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-13 18:28:27,753 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\MedicalRepresentativeSchedule
+2021-06-13 18:28:28,180 [5] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-13 18:28:28,182 [5] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-13 18:41:16,357 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-13 18:41:16,489 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-13 18:41:16,713 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\MedicalRepresentativeSchedule
+2021-06-13 18:41:17,114 [6] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-13 18:41:17,116 [6] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-13 18:47:23,677 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-13 18:47:23,767 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-13 18:47:23,770 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\MedicalRepresentativeSchedule
+2021-06-13 18:47:24,098 [6] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-13 18:47:24,101 [6] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-13 18:52:14,658 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-13 18:52:14,771 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-13 18:52:14,791 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\MedicalRepresentativeSchedule
+2021-06-13 18:52:14,998 [9] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-13 18:52:15,001 [9] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-13 18:53:09,162 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-13 18:53:09,279 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-13 18:53:09,364 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\MedicalRepresentativeSchedule
+2021-06-13 18:53:09,586 [5] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-13 18:53:09,594 [5] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-13 18:54:45,991 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-13 18:54:46,089 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-13 18:54:46,123 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\MedicalRepresentativeSchedule
+2021-06-13 18:54:46,408 [5] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-13 18:54:46,410 [5] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-13 18:56:00,998 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-13 18:56:01,037 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-13 18:56:01,052 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\MedicalRepresentativeSchedule
+2021-06-13 18:56:01,385 [9] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-13 18:56:01,387 [9] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-13 18:58:00,289 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-13 18:58:00,342 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-13 18:58:00,510 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\MedicalRepresentativeSchedule
+2021-06-13 18:59:22,132 [13] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-13 18:59:22,135 [13] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-14 11:04:47,725 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-14 11:04:47,962 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-14 11:04:47,980 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\MedicalRepresentativeSchedule
+2021-06-14 11:05:41,917 [7] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-14 11:05:41,941 [7] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-14 11:07:30,368 [6] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-14 11:07:30,369 [6] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-14 11:16:03,853 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-14 11:16:04,034 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-14 11:16:04,688 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\MedicalRepresentativeSchedule
+2021-06-14 11:16:36,704 [11] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-14 11:16:36,714 [11] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-14 12:21:43,747 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-14 12:21:43,792 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-14 12:21:43,801 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\MedicalRepresentativeSchedule
+2021-06-14 12:25:42,798 [12] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-14 12:25:42,807 [12] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-14 12:25:53,294 [12] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-14 12:25:53,295 [12] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-14 12:25:58,199 [12] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-14 12:25:58,200 [12] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-14 12:36:08,627 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-14 12:36:08,997 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-14 12:36:10,172 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\MedicalRepresentativeSchedule
+2021-06-14 12:47:22,580 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-14 12:47:22,655 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-14 12:47:22,661 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\MedicalRepresentativeSchedule
+2021-06-14 14:33:59,581 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-14 14:34:04,501 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-14 14:34:04,549 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\MedicalRepresentativeSchedule
+2021-06-14 14:46:03,938 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-14 14:46:05,187 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-14 14:46:05,838 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\MedicalRepresentativeSchedule
+2021-06-14 14:52:23,403 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-14 14:52:23,793 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-14 14:52:24,409 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\MedicalRepresentativeSchedule
+2021-06-14 15:14:10,957 [11] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-14 15:14:10,975 [11] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-14 18:17:48,199 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-14 18:17:49,112 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-14 18:17:49,377 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\MedicalRepresentativeSchedule
+2021-06-14 18:51:26,781 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-14 18:51:27,218 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-14 18:51:27,612 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\MedicalRepresentativeSchedule
+2021-06-14 19:36:40,695 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-14 19:36:40,745 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-14 19:36:40,755 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\MedicalRepresentativeSchedule

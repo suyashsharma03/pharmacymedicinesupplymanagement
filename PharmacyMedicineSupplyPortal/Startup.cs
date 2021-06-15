@@ -27,7 +27,7 @@ namespace PharmacyMedicineSupplyPortal
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
-            services.AddDbContext<EFDbContext>(opt => opt.UseSqlServer(Configuration["ConnectionStrings:connectionAzure"]));
+            services.AddDbContext<EFDbContext>(opt => opt.UseSqlServer(Configuration["ConnectionStrings:conn"]));
             services.AddScoped<IDemands, DemandRepository>();
             services.AddScoped<ISupplies, SuppliesRepository>();
             services.Configure<CookiePolicyOptions>(options =>

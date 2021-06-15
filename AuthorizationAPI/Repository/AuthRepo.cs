@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace AuthorizationAPI.Repository
 {
-    public class AuthRepo
+    public class AuthRepo:IAuthRepo
     {
         private readonly IConfiguration _config;
         static readonly log4net.ILog _log4net = log4net.LogManager.GetLogger(typeof(AuthRepo));

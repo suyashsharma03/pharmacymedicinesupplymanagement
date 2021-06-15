@@ -121,7 +121,10 @@ namespace PharmacyMedicineSupplyPortal.Controllers
                     id = supplyrepo.AddSupply(new Supplies { PharmacyName = supply.PharmacyName, MedicineName = supply.MedicineName, SupplyCount = supply.SupplyCount });
                 }
                 ViewBag.SupplyId = id;
-                return View(distributionOfStock);
+                if(TokenInfo.token != null)
+                    return View(distributionOfStock);
+                else
+                    return RedirectToAction("Login", "Home");
             }
             catch(Exception)
             {

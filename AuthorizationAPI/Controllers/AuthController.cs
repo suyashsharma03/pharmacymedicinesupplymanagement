@@ -30,7 +30,6 @@ namespace AuthorizationAPI.Controllers
             AuthRepo auth_repo = new AuthRepo(_config, _repo);
             _log4net.Info("Login initiated!");
             IActionResult response = Unauthorized();
-            //login.FullName = "user1";
             var user = auth_repo.AuthenticateUser(login);
             if (user == null)
             {

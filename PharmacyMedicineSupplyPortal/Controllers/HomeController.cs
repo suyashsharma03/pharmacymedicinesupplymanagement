@@ -39,11 +39,13 @@ namespace PharmacyMedicineSupplyPortal.Controllers
 
             using (var httpClient = new HttpClient())
             {
+                //trying to convert json username and password to string
                 StringContent content = new StringContent(JsonConvert.SerializeObject(cred), Encoding.UTF8, "application/json");
 
+                //calling jwt or authorization api and passing username and password as parameters
                 using (var response = await httpClient.PostAsync("http://localhost:54859/api/Auth", content))
                 {
-
+                    //checking the response code
                     if (!response.IsSuccessStatusCode)
                     {
                         //_log4net.Info("Login failed");
@@ -51,12 +53,12 @@ namespace PharmacyMedicineSupplyPortal.Controllers
                         return View("Login");
                     }
                     //_log4net.Info("Login Successful and token generated");
-                    string strtoken = await response.Content.ReadAsStringAsync();
+                    string strtoken = await response.Content.ReadAsStringAsync(); //if response code is succesful storingtoken
 
 
                     loginCred = JsonConvert.DeserializeObject<Login>(strtoken);
                     string userName = cred.Username;
-                    TokenInfo.token = token = strtoken;
+                    TokenInfo.token = token = strtoken; //token is a static variable of TokenInfo class storing token value in it
                 }
             }
             Console.WriteLine("Success");

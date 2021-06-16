@@ -138,3 +138,9 @@
         }
     </tbody>
 </table>
+@if(ViewBag.Message != null)
+            {
+                <div class="alert-danger">
+                    @ViewBag.Message
+                </div>
+            }

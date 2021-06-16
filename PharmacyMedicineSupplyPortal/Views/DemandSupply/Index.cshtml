@@ -1,8 +1,6 @@
 ﻿@model PharmacyMedicineSupplyPortal.Models.MedicineDemand
 
-@{
-    ViewData["Title"] = "Index";
-}
+@{ ViewData["Title"] = "Index"; }
 
 <div class="container-fluid">
     <div class="row justify-content-center">
@@ -11,7 +9,7 @@
                 <h1>Pharmacy Supply Management Portal</h1>
             </div>
 
-            
+
 
             <div class="card bg-light text-dark">
                 <table class="table">
@@ -24,29 +22,27 @@
                     </thead>
                     <tbody>
                         @*@foreach (var item in ViewBag.Demands)
-                        {*@
-                            <tr>
-                                @using (Html.BeginForm("Add", "DemandSupply", FormMethod.Post))
-                                {
-                                    <td>
-                                        @*@item.Medicine
-                                        <input type="hidden" asp-for="Medicine" value=@item.Medicine />*@
-                                        <select asp-for="Medicine">
-                                            <option>Select</option>
-                                            @foreach (var item in ViewBag.Demands)
-                                            {
-                                        <option value="@item.Medicine">@item.Medicine</option>
-                                            }
-                                        </select>
-                                    </td>
-                                    <td>
-                                        <input type="number" asp-for="DemandCount" placeholder="Enter the Demand count " min="1" class="form-control" required/>
-                                    </td>
-                                    <td>
-                                        <input type="submit" class="btn btn-primary" value="order" />
-                                    </td>
-                                }
-                            </tr>
+                            {*@
+                        <tr>
+                            @using (Html.BeginForm("Add", "DemandSupply", FormMethod.Post))
+                            {
+                <td>
+                    @*@item.Medicine
+                        <input type="hidden" asp-for="Medicine" value=@item.Medicine />*@
+                    <select asp-for="Medicine">
+                        <option>Select</option>
+                        @foreach (var item in ViewBag.Demands)
+                        {
+        <option value="@item.Medicine">@item.Medicine</option>}
+                    </select>
+                </td>
+                                <td>
+                                    <input type="number" asp-for="DemandCount" placeholder="Enter the Demand count " min="1" class="form-control" required />
+                                </td>
+                                                <td>
+                                                    <input type="submit" class="btn btn-primary" value="order" />
+                                                </td>}
+                        </tr>
                         @*}*@
                     </tbody>
                 </table>
@@ -54,6 +50,13 @@
         </div>
     </div>
 </div>
+@if (ViewBag.Message != null)
+{
+    <div class="alert-danger">
+        @ViewBag.Message
+    </div>
+}
+
 <div>
     <a asp-area="" asp-controller="MRScheduleMeet" asp-action="EnterDate">Back</a>
 </div>

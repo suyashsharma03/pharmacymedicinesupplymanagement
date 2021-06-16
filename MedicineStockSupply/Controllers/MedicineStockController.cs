@@ -38,8 +38,6 @@ namespace MedicineStockSupply.Controllers
             {
                 var medicine = _repo.GetMedicineDetails(medicineName);
                 return Ok(medicine);
-                //string stock = Convert.ToString(medicine.NumberOfTabletsInStock);
-                //return Content((medicine.MedicineName,stock));
             }
             catch
             {

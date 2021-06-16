@@ -61,10 +61,8 @@ namespace PharmacyMedicineSupplyPortal.Controllers
                     TokenInfo.token = token = strtoken; //token is a static variable of TokenInfo class storing token value in it
                 }
             }
-            Console.WriteLine("Success");
 
             return RedirectToAction("EnterDate", "MRScheduleMeet", new { name = token });
-            //return RedirectToAction("Dashboard");
         }
 
         public ActionResult Dashboard()

@@ -189,3 +189,31 @@
 2021-06-15 10:34:24,235 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\MedicalRepresentativeSchedule
 2021-06-15 10:35:31,476 [6] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
 2021-06-15 10:35:31,480 [6] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-16 10:52:55,747 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-16 10:52:55,926 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-16 10:52:56,151 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\MedicalRepresentativeSchedule
+2021-06-16 13:38:46,979 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-16 13:38:47,315 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-16 13:38:47,345 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\MedicalRepresentativeSchedule
+2021-06-16 13:40:27,244 [12] ERROR MedicalRepresentativeSchedule.Services.ScheduleRepo - No Meetings Scheduled
+2021-06-16 13:40:27,245 [12] ERROR MedicalRepresentativeSchedule.Controllers.RepScheduleController - List is Null
+2021-06-16 13:40:40,217 [12] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-16 13:40:40,229 [12] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-16 13:40:46,648 [12] ERROR MedicalRepresentativeSchedule.Services.ScheduleRepo - No Meetings Scheduled
+2021-06-16 13:40:46,648 [12] ERROR MedicalRepresentativeSchedule.Controllers.RepScheduleController - List is Null
+2021-06-16 13:50:37,174 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-16 13:50:37,259 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-16 13:50:37,314 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\MedicalRepresentativeSchedule
+2021-06-16 13:52:31,363 [11] ERROR MedicalRepresentativeSchedule.Services.ScheduleRepo - No Meetings Scheduled
+2021-06-16 13:52:31,364 [11] ERROR MedicalRepresentativeSchedule.Controllers.RepScheduleController - List is Null
+2021-06-16 14:31:59,797 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-16 14:31:59,923 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-16 14:32:00,041 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\MedicalRepresentativeSchedule
+2021-06-16 14:32:56,211 [6] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-16 14:32:56,219 [6] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-16 14:33:51,925 [4] ERROR MedicalRepresentativeSchedule.Services.ScheduleRepo - No Meetings Scheduled
+2021-06-16 14:33:51,926 [4] ERROR MedicalRepresentativeSchedule.Controllers.RepScheduleController - List is Null
+2021-06-16 14:34:01,161 [4] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-16 14:34:01,162 [4] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-16 14:37:09,417 [6] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV
+2021-06-16 14:37:09,418 [6] INFO MedicalRepresentativeSchedule.Services.ScheduleRepo - Data is read from CSV

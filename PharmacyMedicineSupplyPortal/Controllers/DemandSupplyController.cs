@@ -15,6 +15,7 @@ namespace PharmacyMedicineSupplyPortal.Controllers
     {
         private IDemands repo;
         private ISupplies supplyrepo;
+        private static int forViewBagFlag;
         public DemandSupplyController(IDemands repo, ISupplies supplyrepo)
         {
             this.repo = repo;
@@ -40,9 +41,9 @@ namespace PharmacyMedicineSupplyPortal.Controllers
                         stock = JsonConvert.DeserializeObject<List<MedicineStock>>(result);
                     }
                 }
-                if(stock.Count==0)
+                if (stock.Count == 0)
                 {
-                    return RedirectToAction("Index","DemandSupply");
+                    return RedirectToAction("Index", "DemandSupply");
                 }
                 var list = new List<MedicineDemand>();
                 foreach (var med in stock)
@@ -50,6 +51,11 @@ namespace PharmacyMedicineSupplyPortal.Controllers
                     list.Add(new MedicineDemand { Medicine = med.MedicineName, DemandCount = 0 });
                 }
                 ViewBag.Demands = list;
+                if (forViewBagFlag == 1)
+                    ViewBag.Message = "Demand Count Exceeds Stock";
+                else
+                    ViewBag.Message = null;
+
                 return View();
             }
             catch(Exception e)
@@ -114,8 +120,11 @@ namespace PharmacyMedicineSupplyPortal.Controllers
                 }
                 if (distributionOfStock.Count == 0)
                 {
+                    forViewBagFlag = 1;
                     return RedirectToAction("Index", "DemandSupply");
                 }
+                else
+                    forViewBagFlag = 0;
                 foreach (var supply in distributionOfStock)
                 {
                     id = supplyrepo.AddSupply(new Supplies { PharmacyName = supply.PharmacyName, MedicineName = supply.MedicineName, SupplyCount = supply.SupplyCount });

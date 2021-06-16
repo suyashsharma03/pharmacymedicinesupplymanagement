@@ -103,6 +103,17 @@ namespace MedicineStockSupplyTest
                 Assert.AreEqual("Object reference not set to an instance of an object.", e.Message);
             }
         }
+
+        [Test]
+        public void MedicineStockInformation_NullInput_ThrowsException()
+        {
+            Mock<IMedicineRepo<MedicineStock>> mock = new Mock<IMedicineRepo<MedicineStock>>();
+            mock.Setup(p => p.GetAllMedicines()).Returns(list2);
+            MedicineStockController controller = null;
+            var ex = Assert.Throws<NullReferenceException>(() => controller.MedicineStockInformation());
+            Assert.That(ex.Message, Is.EqualTo("Object reference not set to an instance of an object."));
+        }
+
         [Test]
         public void OneMedicineDetail_ValidInput_OkRequest()
         {
@@ -138,6 +149,18 @@ namespace MedicineStockSupplyTest
             }
 
         }
+
+        [Test]
+        public void OneMedicineDetail_NullInput_ThrowsException()
+        {
+            Mock<IMedicineRepo<MedicineStock>> mock = new Mock<IMedicineRepo<MedicineStock>>();
+            mock.Setup(mp => mp.GetMedicineDetails(stock.MedicineName)).Returns(stock);
+            MedicineStockController controller = null;
+            var ex = Assert.Throws<NullReferenceException>(() => controller.MedicineStockInformation());
+            Assert.That(ex.Message, Is.EqualTo("Object reference not set to an instance of an object."));
+        }
+
+
 
     }
 }

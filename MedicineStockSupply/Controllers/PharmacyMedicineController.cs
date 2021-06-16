@@ -18,6 +18,7 @@ namespace MedicineStockSupply.Controllers
     {
         static readonly log4net.ILog _log4net = log4net.LogManager.GetLogger(typeof(PharmacyMedicineController));
         private IMedicineSupply _supply;
+        private static readonly Random _random = new Random();
 
         static List<string> Pharmacies = new List<string>()
         { "Max Pharmacy", "Appolo Pharmacy", "Synergy Pharmacy", "GoodWill Pharmacy" };
@@ -43,12 +44,11 @@ namespace MedicineStockSupply.Controllers
                     var result = response.Content.ReadAsStringAsync().Result;
                     var medicines = JsonConvert.DeserializeObject<MedicineStock>(result);
 
-                    //var m = medicines.MedicineName;
                     if (medicines.NumberOfTabletsInStock >= count)
                         pharmacyMedicines.Add(new PharmacyMedicineSupply()
                         {
                             MedicineName = medicineName,
-                            PharmacyName = Pharmacies[0],
+                            PharmacyName = Pharmacies[_random.Next(0, 3)],
                             SupplyCount = count
                         });
                 }

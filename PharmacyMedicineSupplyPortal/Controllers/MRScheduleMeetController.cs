@@ -71,6 +71,12 @@ namespace PharmacyMedicineSupplyPortal.Controllers
                     MRMeetList = JsonConvert.DeserializeObject<List<RepSchedule>>(result);
                 }
             }
+            if (DateTime.Parse(startDate).DayOfWeek == 0)
+                ViewBag.Message = "Date Provided is Sunday. No Schedule to show";
+            else if (MRMeetList == null || MRMeetList.Count < 1)
+                ViewBag.Message = "No Schedule on the date provided";
+            else
+                ViewBag.Message = null;
             return View(MRMeetList);
         }
     }

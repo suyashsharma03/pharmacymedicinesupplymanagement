@@ -1,0 +1,179 @@
+2021-06-20 00:43:27,052 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-20 00:43:27,365 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-20 00:43:27,571 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\PharmacyMedicineSupplyPortal
+2021-06-20 00:43:27,918 [9] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:43:39,325 [5] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Post Login is called
+2021-06-20 00:43:40,831 [7] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Login Successful and token generated
+2021-06-20 00:44:54,122 [17] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:45:12,685 [24] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:45:13,674 [6] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:45:20,451 [6] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:45:22,928 [6] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:45:23,880 [6] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:45:24,613 [15] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:45:25,213 [5] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:45:25,795 [5] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:45:26,351 [9] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:45:31,082 [5] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:45:31,452 [6] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:45:32,921 [6] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:45:33,505 [6] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:45:33,930 [5] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:45:34,411 [6] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:45:34,895 [6] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:45:35,410 [6] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:45:36,190 [24] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:45:37,111 [24] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:45:37,630 [15] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:45:38,043 [15] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:45:43,764 [6] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Post Login is called
+2021-06-20 00:45:43,839 [4] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Login Successful and token generated
+2021-06-20 00:46:02,813 [15] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:46:04,256 [15] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:46:07,064 [15] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:46:07,776 [15] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:46:08,301 [15] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:46:08,733 [15] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:46:09,422 [15] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:46:10,578 [15] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:46:13,085 [24] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:46:15,374 [24] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:46:16,061 [5] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:46:16,895 [5] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:46:20,727 [24] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:46:27,838 [24] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Post Login is called
+2021-06-20 00:46:27,988 [4] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Login Successful and token generated
+2021-06-20 00:46:37,449 [15] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:46:39,278 [15] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:46:40,026 [9] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:46:40,550 [5] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:46:40,900 [5] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-20 00:46:44,458 [9] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-22 10:19:24,782 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-22 10:19:24,899 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-22 10:19:25,047 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\PharmacyMedicineSupplyPortal
+2021-06-22 10:19:25,955 [4] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-22 10:19:37,052 [5] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Post Login is called
+2021-06-22 10:19:38,469 [7] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Login Successful and token generated
+2021-06-22 10:20:53,348 [17] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-22 10:20:58,029 [4] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-22 10:20:59,159 [5] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-22 10:21:01,077 [5] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-23 15:28:58,860 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-23 15:28:58,912 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-23 15:28:58,941 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\PharmacyMedicineSupplyPortal
+2021-06-23 15:28:59,291 [5] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-23 15:29:12,815 [4] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Post Login is called
+2021-06-23 15:29:14,322 [6] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Login Successful and token generated
+2021-06-23 15:29:47,814 [16] ERROR Microsoft.EntityFrameworkCore.Database.Connection - An error occurred using the connection to database 'dbPharmacy' on server '(localdb)\MSSQLLocalDB'.
+2021-06-23 15:29:48,100 [16] ERROR Microsoft.EntityFrameworkCore.Update - An exception occurred in the database while saving changes for context type 'PharmacyMedicineSupplyPortal.Models.EFDbContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=15085; handshake=60; 
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ThrowExceptionAndWarning(Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ReadSniSyncOverAsync()
+   at Microsoft.Data.SqlClient.TdsParserStateObject.TryReadNetworkPacket()
+   at Microsoft.Data.SqlClient.TdsParser.ConsumePreLoginHandshake(Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, Boolean& marsCapable, Boolean& fedAuthRequired)
+   at Microsoft.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, Boolean withFailover, SqlAuthenticationMethod authType)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.BeginTransaction(IsolationLevel isolationLevel)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.BeginTransaction()
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+ClientConnectionId:ad47ea0a-2dcb-48b9-8b10-9beacca337a9
+Error Number:-2,State:0,Class:11
+Microsoft.Data.SqlClient.SqlException (0x80131904): Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=15085; handshake=60; 
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ThrowExceptionAndWarning(Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ReadSniSyncOverAsync()
+   at Microsoft.Data.SqlClient.TdsParserStateObject.TryReadNetworkPacket()
+   at Microsoft.Data.SqlClient.TdsParser.ConsumePreLoginHandshake(Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, Boolean& marsCapable, Boolean& fedAuthRequired)
+   at Microsoft.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, Boolean withFailover, SqlAuthenticationMethod authType)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.BeginTransaction(IsolationLevel isolationLevel)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.BeginTransaction()
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+ClientConnectionId:ad47ea0a-2dcb-48b9-8b10-9beacca337a9
+Error Number:-2,State:0,Class:11
+2021-06-23 15:30:31,281 [4] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-23 15:30:38,275 [4] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Post Login is called
+2021-06-23 15:30:38,434 [15] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Login failed
+2021-06-23 15:30:43,246 [4] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-23 15:30:44,444 [4] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-23 15:30:45,584 [4] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-23 17:23:13,920 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-23 17:23:13,977 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-23 17:23:13,984 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\PharmacyMedicineSupplyPortal
+2021-06-23 17:23:14,224 [5] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-23 17:23:27,050 [4] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Post Login is called
+2021-06-23 17:23:28,481 [7] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Login Successful and token generated
+2021-06-23 17:23:59,284 [4] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-23 18:24:42,903 [20] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Post Login is called
+2021-06-23 18:24:43,340 [23] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Login failed
+2021-06-23 18:24:52,652 [20] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Post Login is called
+2021-06-23 18:24:53,012 [23] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Login Successful and token generated
+2021-06-23 18:26:23,455 [31] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-23 18:26:26,645 [31] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-24 17:30:02,155 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-24 17:30:02,227 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-24 17:30:02,277 [1] INFO Microsoft.Hosting.Lifetime - Content root path: G:\suyash_docs\CTS_MCA\Internship\MFPE\Project\PharmacyMedicineSupplyPortal
+2021-06-24 17:30:03,636 [4] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-24 17:51:46,181 [7] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-24 17:51:53,554 [7] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Post Login is called
+2021-06-24 17:51:55,751 [6] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Login failed
+2021-06-24 17:52:02,681 [7] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Post Login is called
+2021-06-24 17:52:03,495 [17] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Login Successful and token generated
+2021-06-24 17:54:26,158 [14] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in
+2021-06-24 17:54:30,268 [7] INFO PharmacyMedicineSupplyPortal.Controllers.HomeController - Pensioner is logging in

@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\KAILASH SHARMA\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\KAILASH SHARMA\\.nuget\\packages",
+      "G:\\Softwares\\Visual Studio Community 2019\\Shared\\NuGetPackages"
+    ]
+  }
+}
